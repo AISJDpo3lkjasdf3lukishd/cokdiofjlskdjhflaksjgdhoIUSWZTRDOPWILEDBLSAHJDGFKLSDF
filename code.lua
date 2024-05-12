@@ -60,7 +60,7 @@ local Notifications = Instance.new("Folder")
 --Properties:
 
 ASJKDLKJHLKJDSF.Name = "ASJKDLKJHLKJDSF"
-ASJKDLKJHLKJDSF.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+ASJKDLKJHLKJDSF.Parent = game.Players:FindFirstChild(username).PlayerGui
 ASJKDLKJHLKJDSF.ResetOnSpawn = false
 
 Frame.Parent = ASJKDLKJHLKJDSF
