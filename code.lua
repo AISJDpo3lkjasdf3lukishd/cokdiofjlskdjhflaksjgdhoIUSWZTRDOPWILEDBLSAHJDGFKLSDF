@@ -1,4 +1,3 @@
-local username = _G.USER
 --[[
 
 CARTEL HUB
