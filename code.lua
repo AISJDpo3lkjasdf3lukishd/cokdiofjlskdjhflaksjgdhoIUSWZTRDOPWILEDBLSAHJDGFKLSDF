@@ -1,4 +1,4 @@
-username = "MdsMdle"
+local username = "MdsMdle"
 print(username)
 --[[
 
