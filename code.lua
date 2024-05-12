@@ -338,7 +338,7 @@ sync.ImageRectOffset = Vector2.new(884, 244)
 sync.ImageRectSize = Vector2.new(36, 36)
 
 Template.Name = "Template"
-Template.Parent = game.StarterGui.ASJKDLKJHLKJDSF.Frame.LoadScripts
+Template.Parent = ASJKDLKJHLKJDSF.Frame.LoadScripts
 Template.BackgroundColor3 = Color3.fromRGB(43, 43, 43)
 Template.BackgroundTransparency = 0.950
 Template.BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -351,7 +351,7 @@ Template.TextColor3 = Color3.fromRGB(255, 255, 255)
 Template.TextSize = 16.000
 
 Notification.Name = "Notification"
-Notification.Parent = game.StarterGui.ASJKDLKJHLKJDSF.Frame.Notif
+Notification.Parent = ASJKDLKJHLKJDSF.Frame.Notif
 Notification.AnchorPoint = Vector2.new(1, 1)
 Notification.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Notification.BorderColor3 = Color3.fromRGB(0, 0, 0)
