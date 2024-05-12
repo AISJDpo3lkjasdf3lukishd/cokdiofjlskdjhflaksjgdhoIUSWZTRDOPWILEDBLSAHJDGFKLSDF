@@ -1,3 +1,4 @@
+print(username)
 --[[
 
 CARTEL HUB
